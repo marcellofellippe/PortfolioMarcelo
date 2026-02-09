@@ -273,6 +273,53 @@
         }
         .card-info h4 { font-size: 1.1rem; color: #fff; }
 
+    /* Estilos para Publicações e Apoiadores */
+.publicacao-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.book-link {
+    transition: 0.4s;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid rgba(255,255,255,.1);
+    line-height: 0;
+}
+
+.book-link:hover {
+    border-color: #ff2fcf;
+    transform: scale(1.02);
+    box-shadow: 0 10px 30px rgba(255, 47, 207, 0.3);
+}
+
+.apoiadores-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.apoiador-card {
+    background: var(--card-bg);
+    padding: 25px;
+    border-radius: 18px;
+    border: 1px solid rgba(255,255,255,.08);
+    min-width: 200px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.apoiador-card:hover {
+    border-color: #ff2fcf;
+    transform: translateY(-5px);
+}
+    
         footer {
             background: var(--footer-bg);
             padding: 100px 8% 40px;
@@ -451,6 +498,33 @@
         </div>
     </section>
 
+    <section class="areas-section" id="publicacoes">
+    <div class="tag">Produção Acadêmica</div>
+    <h2 class="section-title">Publicações</h2>
+    <div class="publicacao-item">
+        <a href="https://clubedeautores.com.br/livro/gestao-em-tempos-de-crise" target="_blank" class="book-link">
+            <img src="img/livro.jpg" alt="Livro Gestão em Tempos de Crise" style="width: 250px; border-radius: 10px;">
+        </a>
+        
+        <div class="area" style="max-width: 500px; text-align: left;">
+            <h3>Gestão em Tempos de Crise</h3>
+            <p>Uma obra prática e inspiradora para líderes, empreendedores e administradores que enfrentam cenários de instabilidade. Com foco em adaptação, resiliência e estratégias aplicáveis, o livro apresenta caminhos claros para manter negócios competitivos e transformar crises em oportunidades de crescimento.</p>
+             <a href="https://clubedeautores.com.br/livro/gestao-em-tempos-de-crise" target="_blank" class="btn primary" style="padding: 10px 25px; font-size: 13px;">Ver Livro</a>
+        </div>
+    </div>
+</section>
+
+<section class="portfolio-section" id="apoiadores">
+    <div class="tag">Rede de Apoio</div>
+    <h2 class="section-title">Apoiadores</h2>
+    <div class="apoiadores-list">
+        <div class="apoiador-card"><h4>Apoiador 01</h4></div>
+        <div class="apoiador-card"><h4>Apoiador 02</h4></div>
+        <div class="apoiador-card"><h4>Apoiador 03</h4></div>
+        <div class="apoiador-card"><h4>Apoiador 04</h4></div>
+    </div>
+</section>
+    
     <footer id="contato">
         <div class="cta-box">
             <div class="tag">Design com base estratégica</div>
