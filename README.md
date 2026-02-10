@@ -1,44 +1,40 @@
-# Portfólio Marcelo Felipe Andrade de Borba
+# 🎨 Portfólio Marcelo Felipe Andrade de Borba
 
-github-pages
+[🔗 Visualizar Online](https://marcellofellippe.github.io/PortfolioMarcelo/)
 
-https://marcellofellippe.github.io/PortfolioMarcelo/
-
-> 🚧 **Em construção...**
-
-Este repositório contém o meu portfólio profissional, reunindo projetos, experiências e habilidades nas áreas de **Design Gráfico, Marketing, Administração e Desenvolvimento Web**.
+> 🚧 **Em construção...**  
+> Meu portfólio profissional, reunindo projetos, experiências e habilidades em **Design Gráfico, Marketing, Administração e Desenvolvimento Web**.
 
 ---
 
-## 🔧 Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 
-O portfólio foi desenvolvido com as seguintes ferramentas:
+O site foi desenvolvido com a seguinte estrutura atual:
 
-- **HTML**: Estrutura do site.
-- **CSS interno**: Estilização feita diretamente dentro do arquivo HTML, sem arquivos externos.
-- **JavaScript** (quando necessário para funcionalidades interativas).
-- Design realizado em ferramentas como **Canva, Photoshop e Illustrator**.
+- 🖥 **HTML**: Estrutura do site  
+- 🎨 **CSS**: Arquivos externos separados para estilização  
+- ⚡ **JavaScript**: Arquivos externos para funcionalidades interativas  
+- 🖌 **Ferramentas de Design**: Canva, Photoshop e Illustrator  
+
+> Inicialmente o projeto utilizava CSS e JS internos, mas foi migrado para arquivos separados para melhor organização e manutenção.
 
 ---
 
-## 🖼 Projetos
+## 🖼 Projetos em destaque
 
-- Projetos de **Design Gráfico**: Identidade visual, posts para redes sociais, banners.  
-- Projetos de **Marketing Digital** e **Gestão de Negócios**.  
-- Projetos de **Desenvolvimento Web**: Sites e aplicações front-end.
+- **Design Gráfico**: Identidade visual, posts para redes sociais, banners  
+- **Marketing Digital e Gestão de Negócios**: Campanhas e materiais estratégicos  
+- **Desenvolvimento Web**: Sites e aplicações front-end, com foco em acessibilidade e experiência do usuário
 
 ---
 
 ## 📬 Contato
 
-Email: borba_andrade@hotmail.com  
-
-Links:  
-- [GitHub](https://github.com/marcellofellippe)  
-- [LinkedIn](https://www.linkedin.com/in/marcellofellippe/)  
-
+- 📧 **Email**: borba_andrade@hotmail.com  
+- 💻 **GitHub**: [marcellofellippe](https://github.com/marcellofellippe)  
+- 🔗 **LinkedIn**: [marcellofellippe](https://www.linkedin.com/in/marcellofellippe/)  
 
 ---
 
 **Marcelo Felipe Andrade de Borba**  
-Profissional de Design, Marketing e Desenvolvimento Web
+Profissional de **Design, Marketing e Desenvolvimento Web**
